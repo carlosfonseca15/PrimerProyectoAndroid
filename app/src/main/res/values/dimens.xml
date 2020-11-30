@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_small">18sp</dimen>
+    <dimen name="font_size_normal">24sp</dimen>
+    <dimen name="font_size_tablet">36sp</dimen>
+    <dimen name="font_size_tv">45sp</dimen>
+</resources>
